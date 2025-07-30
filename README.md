@@ -1,3 +1,33 @@
+# MotionVault — Online Store
+
+A modern and fully responsive online shop built with React.js and Framer Motion.  
+Designed for elegant UI, smooth animations, and scalable architecture.
+
+---
+
+## 🚀 Features
+
+- Clean and professional UI
+- Fully responsive design (mobile-first)
+- Framer Motion animations
+- Modular React component structure
+- React Hooks and Context API
+- Easily extendable for real-world use (API, database, etc.)
+
+---
+
+## 📦 Installation
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/yourusername/motionvault.git
+cd motionvault
+npm install
+npm start
+
+
+
 MIT License
 
 Copyright (c) 2025
